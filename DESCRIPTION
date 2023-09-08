@@ -1,0 +1,14 @@
+Package: hscsm
+Type: Package
+Title: This package display as boxplot transcriptome expression in MSCs of human genes 
+Version: 1.0.0
+Author: christophe.desterke@gmail.com
+Maintainer: The package maintainer <christophe.desterke@gmail.com>
+Description: boxplot of human gene expression in
+    Mesenchymal stromal cells (MSCs) from human tissue samples
+    perinatals versus adult bone marrow.
+Imports: ggplot2, dplyr, tibble
+License: GNU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
